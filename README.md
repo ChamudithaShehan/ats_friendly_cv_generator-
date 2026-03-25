@@ -289,7 +289,7 @@ You can add a `LICENSE` file with standard MIT text if not already present.
 
 # 👤 Author
 
-- Name: Your Name
+- Name: Chamuditha shehan
 - GitHub: https://github.com/ChamudithaShehan
 - Email: chamudithashahan@gmail.com
 
