@@ -90,32 +90,20 @@ To reduce the time and effort needed to create a strong, professional resume tha
 
 # 🖼️ Screenshots / UI Preview
 
-Add screenshots to a `screenshots/` folder in the repository root and reference them below.
+Current UI screenshots are available in `public/screenshot/`:
 
-Suggested screenshot files:
-
-- `screenshots/home.png`
-- `screenshots/templates.png`
-- `screenshots/builder.png`
-- `screenshots/dashboard.png`
-- `screenshots/preview.png`
-
-Example markdown:
-
-```md
-![Home](screenshots/home.png)
-![Templates](screenshots/templates.png)
-![Builder](screenshots/builder.png)
-![Dashboard](screenshots/dashboard.png)
-![Preview](screenshots/preview.png)
-```
+![Home](public/screenshot/Home.png)
+![Templates](public/screenshot/Template.png)
+![Templates 2](public/screenshot/Template02.png)
+![Builder](public/screenshot/builder.png)
+![Preview](public/screenshot/Preview.png)
 
 ### Recommended Screens to Capture
 
 - Home/Landing page
 - Templates gallery (ATS Friendly + Normal CV)
 - Resume Builder with live preview
-- Dashboard with saved resumes
+- Dashboard with saved resumes (`public/screenshot/Dashboard .png`)
 - Final Preview page
 
 ---
@@ -290,8 +278,8 @@ You can add a `LICENSE` file with standard MIT text if not already present.
 # 👤 Author
 
 - Name: Your Name
-- GitHub: https://github.com/your-username
-- Email: your.email@example.com
+- GitHub: https://github.com/ChamudithaShehan
+- Email: chamudithashahan@gmail.com
 
 ---
 
