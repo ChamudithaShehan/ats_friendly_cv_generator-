@@ -290,8 +290,8 @@ You can add a `LICENSE` file with standard MIT text if not already present.
 # 👤 Author
 
 - Name: Your Name
-- GitHub: https://github.com/your-username
-- Email: your.email@example.com
+- GitHub: https://github.com/ChamudithaShehan
+- Email: chamudithashahan@gmail.com
 
 ---
 
